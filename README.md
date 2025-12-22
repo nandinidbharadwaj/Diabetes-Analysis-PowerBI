@@ -48,11 +48,12 @@ The dataset includes the following fields:
 - `.pbix` file → Power BI dashboard
 - `.csv` file → dataset used
 - `.jpg` file → Preview screenshot of the dashboard
+- `.pdf` file → Project report
 ---
 
 ## 📧 Contact
 If you want to explore or discuss the dashboard:  
 
-**Name:** Nandini D  
+**Name:** Nandini D Bharadwaj
 **Email:** nandinidbharadwaj@gmail.com  
 **Role:** Aspiring Data Analyst  
