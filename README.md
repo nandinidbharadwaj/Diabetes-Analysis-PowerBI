@@ -47,7 +47,7 @@ The dataset includes the following fields:
 ## 📁 Files in this Project
 - `.pbix` file → Power BI dashboard
 - `.csv` file → dataset used
-- `.jpg` file → dashboard screenshot
+- `.jpg` file → Preview screenshot of the dashboard
 ---
 
 ## 📧 Contact
