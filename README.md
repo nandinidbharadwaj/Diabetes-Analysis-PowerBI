@@ -1,4 +1,4 @@
-# Diabetes-Analysis-PowerBI
+# Healthcare Predictive Analytics: Patient Risk Satisfaction and Diagonistic Insights
 Power BI dashboard analyzing diabetes trends using visualization and data insights.
 # Diabetes Analysis Dashboard – Power BI
 
