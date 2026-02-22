@@ -55,5 +55,7 @@ The dataset includes the following fields:
 If you want to explore or discuss the dashboard:  
 
 **Name:** Nandini D Bharadwaj
+
 **Email:** nandinidbharadwaj@gmail.com  
+
 **Role:** Aspiring Data Analyst  
